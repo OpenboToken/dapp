@@ -12,4 +12,4 @@ Openbo Token Repository
 # DAPP LIST
 
 
-# installation
+# Installation
