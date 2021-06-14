@@ -1,15 +1,15 @@
 # Open Biz Community
 Openbo Token Repository
 
-#General
+# General
 
-#TokenAdress
+# Token Adress
 
-#Distribution
+# Distribution
 
-#Roadmap
+# Roadmap
 
-#DAPP LIST
+# DAPP LIST
 
 
-#installation
+# installation
