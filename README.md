@@ -1,2 +1,2 @@
-# dapp
+# Open Biz Community
 Openbo Token Repository
